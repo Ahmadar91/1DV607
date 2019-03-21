@@ -1,0 +1,3 @@
+Type this command on command prompt (Terminal for mac) to run runnable jar file:
+
+> java -jar BlackJack.jar
